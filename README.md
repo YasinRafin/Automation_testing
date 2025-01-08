@@ -6,14 +6,14 @@ This is a automation testing assignment of cabinns.com website using selenium.
 
 1. Clone the repository
    ```
-   https://github.com/YasinRafin/Django_Task.git
-   cd Django_Task
+   https://github.com/YasinRafin/Automation_testing.git
+   cd Automation_testing
    code .
    ``` 
 
 2. Create a virtual environment:
    ```bash
-   python -m venv venv
+   python3 -m venv venv
    source venv/bin/activate  # On Windows: venv\Scripts\activate
    ```
 
@@ -22,7 +22,7 @@ This is a automation testing assignment of cabinns.com website using selenium.
    pip install -r requirements.txt
    ```
 
-6. Run the testing:
+4. Run the testing:
    ```bash
    python3 cabinns_updated.py
    ```
